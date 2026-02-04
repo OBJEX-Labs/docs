@@ -26,3 +26,7 @@ trademarks and remain the exclusive property of OBJEX LABS SRL.
 ## Disclaimer
 This repository is not intended for collaborative development or community contributions.
 Pull requests will not be accepted.
+
+## Contributions
+This repository is not open for contributions.
+Issues and pull requests will not be accepted.
