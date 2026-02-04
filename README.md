@@ -12,6 +12,15 @@ such as:
 - Software binaries
 - Other official resources
 
+## Legal Notice
+This repository is public only to allow direct downloads
+from the official website of OBJEX LABS SRL.
+
+Forking, reuse, modification, redistribution and pull requests
+are NOT authorized, even if technically possible via GitHub.
+
+This is not an open-source project.
+
 ## License and Usage
 All contents of this repository are proprietary and protected by copyright
 and trademark laws.
